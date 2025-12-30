@@ -30,4 +30,3 @@ tic_tac_toe/
 
 # bash
 git clone https://github.com/MostafaaElhadidy/tic_tac_toe.git
-cd tic-tac-toe
